@@ -2,17 +2,3 @@ Hello
 This is git first demo
 test data1
 test data2
-
-
-
-(Add single file)
-git init
-touch file1
-ls
-git add file1
-git status
-git commit -m "sample file1"
-git status
-git log
-git show (latest files displays)
-git show commitid (to access particular file)
